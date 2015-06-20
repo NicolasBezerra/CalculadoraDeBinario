@@ -1,0 +1,8 @@
+c:\users\nicolas\documents\visual studio 2013\Projects\CalculadoraDeBinário\CalculadoraDeBinário\obj\Debug\CalculadoraDeBinário.csprojResolveAssemblyReference.cache
+c:\users\nicolas\documents\visual studio 2013\Projects\CalculadoraDeBinário\CalculadoraDeBinário\obj\Debug\CalculadoraDeBinário.Form1.resources
+c:\users\nicolas\documents\visual studio 2013\Projects\CalculadoraDeBinário\CalculadoraDeBinário\obj\Debug\CalculadoraDeBinário.Properties.Resources.resources
+c:\users\nicolas\documents\visual studio 2013\Projects\CalculadoraDeBinário\CalculadoraDeBinário\obj\Debug\CalculadoraDeBinário.csproj.GenerateResource.Cache
+c:\users\nicolas\documents\visual studio 2013\Projects\CalculadoraDeBinário\CalculadoraDeBinário\bin\Debug\CalculadoraDeBinário.exe
+c:\users\nicolas\documents\visual studio 2013\Projects\CalculadoraDeBinário\CalculadoraDeBinário\bin\Debug\CalculadoraDeBinário.pdb
+c:\users\nicolas\documents\visual studio 2013\Projects\CalculadoraDeBinário\CalculadoraDeBinário\obj\Debug\CalculadoraDeBinário.exe
+c:\users\nicolas\documents\visual studio 2013\Projects\CalculadoraDeBinário\CalculadoraDeBinário\obj\Debug\CalculadoraDeBinário.pdb
